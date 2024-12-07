@@ -1,4 +1,5 @@
 .conda
+*/.env
 [01]prompt-engineering/whitepaper_Foundational Large Language models & text generation.pdf
 [01]prompt-engineering/whitepaper_Prompt Engineering_v4.pdf
 [02]LLMs/
@@ -6,3 +7,35 @@
 [05]Multi-Agent/
 [06]LLMOps/
 Embedding-nlp-tasks/
+
+\[01]Prompt-engineering/whitepaper_Foundational Large Language models & text generation.pdf
+\[01]Prompt-engineering/whitepaper_Prompt Engineering_v4.pdf
+\[02]LLMs/01 Hello_GPT.ipynb
+\[02]LLMs/02 Hello_BERT.ipynb
+\[02]LLMs/03 GPT4ALL.ipynb
+\[02]LLMs/04 Falcon.ipynb
+\[02]LLMs/05 CodeT5p.ipynb
+\[02]LLMs/07 LMM_01-mulimodal-images.ipynb
+\[02]LLMs/06 ChatwithDocs.ipynb
+\[02]LLMs/08 LMM_02--mulimodal-audio-video.ipynb
+\[02]LLMs/README.md
+\[04]Agent/00 Simple-LangGraph.ipynb
+\[03]Fine-Tuning/day-4-fine-tuning-a-custom-model.ipynb
+\[04]Agent/02 function-calling-with-the-gemini-api.ipynb
+\[04]Agent/01 building-an-agent-with-langgraph.ipynb
+\[04]Agent/03 google-search-grounding.ipynb
+\[04]Agent/04 Agent-and-Tools.ipynb
+\[04]Agent/LG02_Generate_Post_Titles-images.ipynb
+\[04]Agent/Newwhitepaper_Agents2.pdf
+\[04]Agent/Newwhitepaper_Solving Domain-Specific problems using LLMs.pdf
+\[04]Agent/requirements.txt
+\[04]Agent/README.md
+\[04]Agent/sample.db
+.gitignore
+\[05]Multi-Agent/02 MultiAgentToolsMem.ipynb
+\[05]Multi-Agent/04 MultiAgentCustomManager.ipynb
+\[05]Multi-Agent/LG04_Self_Ask_MultiAgent.ipynb
+\[05]Multi-Agent/01 MultiAgent.ipynb
+\[05]Multi-Agent/03 MultiAgentLLMManager.ipynb
+\[05]Multi-Agent/05 MultiAgentAsync.ipynb
+\[06]LLMOps/Newwhitepaper_Operationalizing Generative AI on Vertex AI.pdf
